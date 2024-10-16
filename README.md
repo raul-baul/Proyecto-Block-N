@@ -11,14 +11,14 @@
 - [@Josue-Israel-Tzuc-Moo](https://github.com/Josue-Israel-Tzuc-Moo)
 - [@Miguel]()
 ---
-### FMAT
-### Maestra: Leydi Ofelia Caballero Chi
+# FMAT
+# Maestra: Leydi Ofelia Caballero Chi
 ---
-## EQUIPO
+# EQUIPO
 
-## SCRUM Master
+### SCRUM Master
 - Raúl Arturo Cervera Shiels
-## Development team
+### Development team
 - Juan Jose Vargas Arvizu
 - Josué Israel Tzuc Moo
 - Miguel Angel Gutierrez Lopez
