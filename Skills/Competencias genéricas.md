@@ -1,2 +1,3 @@
 ### Competencias genéricas
 El desarrollo de nuestra aplicación de gestión del tiempo y hábitos no solo contribuye al cumplimiento de objetivos técnicos, sino que también fomenta el desarrollo de competencias genéricas esenciales para el ámbito profesional. Estas competencias, que abarcan habilidades de comunicación, trabajo en equipo, responsabilidad y aprendizaje autónomo, se promueven mediante diversas actividades específicas del proyecto.
+![Equipo de trabajo](https://github.com/raul-baul/Proyecto-Block-N/blob/Primera-entrega/Assets/trabajo-en-equipo-grupo-figurativo-de-equipo-de-trabajo-1024x612.jpg)
