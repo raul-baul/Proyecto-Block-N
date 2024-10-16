@@ -1,6 +1,6 @@
 ﻿# Proyecto-Tiempo-Digital⏰
 > # Primera entrega
-> >![UADY logo](Assets/Logo UADY.jpg)
+---
 ## Integrantes
 
 - [@raul-baul](https://github.com/raul-baul)
