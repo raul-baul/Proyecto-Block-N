@@ -15,6 +15,6 @@
 ### Maestra: Leydi Ofelia Caballero Chi
 ---
 ## EQUIPO
----
+
 ### SCRUM Master
 - Raúl Arturo Cervera Shiels
