@@ -1,6 +1,6 @@
 ﻿# Proyecto-Tiempo-Digital⏰
 > # Primera entrega
-> ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+> ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Primera-entrega/Assets/Logo%20UADY.jpg)
 ---
 ## Integrantes
 
