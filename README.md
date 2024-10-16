@@ -10,6 +10,5 @@
 - [@Miguel]()
 
 ---
-###FMAT UADY
-
-###Leydi Ofelia Caballero Chi
+### FMAT
+###Maestra: Leydi Ofelia Caballero Chi
