@@ -16,9 +16,9 @@
 ---
 ## EQUIPO
 
-### SCRUM Master
+## SCRUM Master
 - Raúl Arturo Cervera Shiels
-### Development team
+## Development team
 - Juan Jose Vargas Arvizu
 - Josué Israel Tzuc Moo
 - Miguel Angel Gutierrez Lopez
