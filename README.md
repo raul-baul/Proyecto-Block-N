@@ -1,4 +1,4 @@
-﻿# Proyecto-Tiempo-Digital⏰
+﻿# BLOCK-N⏰
 # Primera entrega
 > ---
 > ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Primera-entrega/Assets/Logo%20UADY.jpg)
@@ -18,3 +18,10 @@
 
 ### SCRUM Master
 - Raúl Arturo Cervera Shiels
+### Development team
+- Juan Jose Vargas Arvizu
+- Josué Israel Tzuc Moo
+- Miguel Angel Gutierrez Lopez
+- Victor Manuel González Nahuat
+---
+Block N 
