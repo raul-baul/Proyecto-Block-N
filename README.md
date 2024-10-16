@@ -10,7 +10,6 @@
 - [@Victor-Gonzalez-Nahuat](https://github.com/Victor-Gonzalez-Nahuat)
 - [@Josue-Israel-Tzuc-Moo](https://github.com/Josue-Israel-Tzuc-Moo)
 - [@Miguel]()
-
 ---
 ### FMAT
 ### Maestra: Leydi Ofelia Caballero Chi
