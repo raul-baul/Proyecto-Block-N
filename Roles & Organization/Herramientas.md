@@ -5,4 +5,5 @@
 - Repositorios: GITHUB
 - Editor de código: Visual Studio Code
 - Actividades: Excel, Word, Canva, Visio, docs
+- Prototipo: Figma
 - ---
