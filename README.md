@@ -1,6 +1,5 @@
 ﻿# BLOCK-N⏰
-![]()
- 
+![](https://github.com/raul-baul/Proyecto-Block-N/blob/Segunda-Entrega/Assets/logo%20block%20n.PNG)
 # Primera entrega
 > ---
 > ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Primera-entrega/Assets/Logo%20UADY.jpg)
