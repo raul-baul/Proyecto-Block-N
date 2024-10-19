@@ -14,6 +14,7 @@ Asignación de tareas:
 - Actualizar los requerimientos
 - Realización de diagramas de clase
 - Realización del video presentación primer avance
+
 Sprint retrospective: https://www.youtube.com/watch?v=jlwXBKAjhZE
 ---
 ## SPRINT 2
