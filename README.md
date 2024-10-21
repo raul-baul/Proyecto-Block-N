@@ -1,7 +1,7 @@
 ﻿# BLOCK-N⏰
 ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Segunda-Entrega/Assets/Logo%20Block-N.png)
 
--Prototipo: https://www.figma.com/design/0akYj62hd2jpkqNDQ2Z1o8/BLOCK-N?node-id=0-1&node-type=canvas&t=zlkqMlYGnivlnBZG-0
+### Prototipo: https://www.figma.com/design/0akYj62hd2jpkqNDQ2Z1o8/BLOCK-N?node-id=0-1&node-type=canvas&t=zlkqMlYGnivlnBZG-0
 # Primera entrega
 > ---
 > ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Primera-entrega/Assets/Logo%20UADY.jpg)
