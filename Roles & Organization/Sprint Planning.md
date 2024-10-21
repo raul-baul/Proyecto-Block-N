@@ -26,4 +26,13 @@ Sprint retrospective: https://www.youtube.com/watch?v=jlwXBKAjhZE
 
 Asignación de tareas:
 - Realización de prototipos en figma
+---
+## SPRINT 3
+-Duración: 5 días
 
+-Inicio: 21/10/2024
+
+-Fin: 25/10/2024
+
+Asignación de tareas:
+- Realización pruebas de usabilidad
