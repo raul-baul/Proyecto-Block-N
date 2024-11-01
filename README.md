@@ -37,7 +37,7 @@ La concepción del proyecto se ha mantenido constante entre la primera y la segu
 El desarrollo de interfaces, la implementación de los sprints y el enfoque estricto, ha logrado que el equipo tome una mejor responsabilidad respecto a las entregas y avances del proyecto, permitiendo una mejor colaboración y un equipo más unido.
 
 >### Objetivo general
-"Organizar y gestionar el tiempo de los usuarios de manera eficiente, permitiéndoles programar tareas, establecer recordatorios, bloquear aplicaciones distractoras, y sincronizar sus actividades con herramientas externas, mejorando así su productividad y bienestar diario."
+"Organizar y gestionar el tiempo de los usuarios de manera eficiente, permitiéndoles programar tareas, establecer recordatorios, bloquear aplicaciones distractoras y utilizar el calendario, mejorando así su productividad y bienestar enfocádose en funciones de organización personal, sin incluir recursos avanzados o personalizaciones extensivas debido a limitaciones de presupuesto."
 
 >### Usuarios/Clientes
 Se ha identificado que los usuarios principales de la aplicación son estudiantes y empleados jóvenes, ya que son los más propensos a utilizar la tecnología. Debido a su edad, es común que muchos de ellos aún no hayan desarrollado hábitos saludables de estudio o una adecuada gestión del tiempo. Esto puede deberse a la irresponsabilidad o a la acumulación de malos hábitos, lo que, en muchos casos, ha afectado su salud mental y, como consecuencia, ha impactado negativamente en otros aspectos de sus vidas.
