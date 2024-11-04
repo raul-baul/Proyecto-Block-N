@@ -1,0 +1,1 @@
+## LINK DE LA TABLA DE GESTIÓN: https://alumnosuady-my.sharepoint.com/:x:/g/personal/a20200758_alumnos_uady_mx/Ee4wcIsysN9LixFYhy2mI3IBQKwSABumly3hTnJbcN2n0A?e=ZFpvgl
