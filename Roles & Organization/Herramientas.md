@@ -1,9 +1,9 @@
 # Herramientas Utilizadas
 ---
-- Comunicación: Whattsap
-- Virtual meeting: Zoom
-- Repositorios: GITHUB
-- Editor de código: Visual Studio Code
-- Actividades: Excel, Word, Canva, Visio, docs
-- Prototipo: Figma
+- ## Comunicación: Whatsapp
+- ## Virtual meeting: Zoom, whatsapp
+- ## Repositorios: GITHUB
+- ## Editor de código: Visual Studio Code, GIT
+- ## Actividades: Excel, Word, Canva, Visio, docs
+- ## Prototipo: Figma
 - ---
