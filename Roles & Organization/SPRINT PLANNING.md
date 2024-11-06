@@ -36,3 +36,18 @@ Asignación de tareas:
 
 Asignación de tareas:
 - Realización pruebas de usabilidad
+---
+## SPRINT 4
+-Duración: 5 dias
+
+-Inicio: 
+
+-Fin: 
+
+---
+## SPRINT 5
+-Duración: 5 dias
+
+-Inicio:
+
+-Fin: 
