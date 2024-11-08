@@ -25,29 +25,37 @@ Sprint retrospective: https://www.youtube.com/watch?v=jlwXBKAjhZE
 -Fin: 11/10/2024
 
 Asignación de tareas:
-- Realización de prototipos en figma
+- Responder en video las preguntas para el sprint retroespective
+- Edicion dem video
 ---
 ## SPRINT 3
 -Duración: 5 días
+
+-Inicio: 14/10/2024
+
+-Fin: 18/10/2024
+
+Asignación de tareas:
+- Creacion de las interfaces del prototipo en Figma
+---
+## SPRINT 4
+-Duración: 5 dias
 
 -Inicio: 21/10/2024
 
 -Fin: 25/10/2024
 
-Asignación de tareas:
-- Realización pruebas de usabilidad
----
-## SPRINT 4
--Duración: 5 dias
-
--Inicio: 
-
--Fin: 
+Asignacion de tareas:
+- Refinamiento de el prototipo
+- Realizacion de pruebas de usabilidad con el nuevo prototipo
 
 ---
 ## SPRINT 5
 -Duración: 5 dias
 
--Inicio:
+-Inicio: 28/10/2024
 
--Fin: 
+-Fin: 1/11/2024
+
+Asignacion de tareas:
+- Realizar las pruebas de usabilidad que no se terminaron en el pasado sprint
