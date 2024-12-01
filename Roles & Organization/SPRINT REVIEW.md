@@ -1,12 +1,27 @@
 # Sprint review 1
 ## Actividades previas al sprint review
+Análisis de los objetivos, tiempos de respuesta e iteración sobre el cumplimiento de las actividades
 ### Determinar a quien invitar
-Como equipo de trabajo, concluimos que quienes nos ayudarán con las pruebas y la evaluación de la funcionalidad de la interfaz serán nuestros compañeros de clase, así como familiares que deseen probar la aplicación. De esta forma, podremos obtener sus opiniones y comentarios sobre la experiencia de uso.
+Como equipo de trabajo o development team, así como estudiantes y trabajadores para realizar las pruebas de usabilidad correspondientes relacionadas al prototipo de figma.
 ### Agendar la actividad
-Se determinó llevaf a cabo la sprint review todos los lunes a las 3:00 pm. Hora en la que se da por concluida el horario escolar y todos nos encontramos en nuestro hogar
+Se determinó llevar a cabo la sprint review el lunes a las 11:00 am. Hora en la que se da por concluida el horario escolar y podemos asistir a un cubículo en la biblioteca del campus y discutir lo visto en el sprint
 ### Confirmación de que se terminó el sprint
-Las actividades son minuciosamente revisadas para pasar al sprint y del sprint documentarse en el repositorio
+Confirmar que el sprint esté hecho correctamente, las actividades estén organizadas de la mejor forma y revisar los puntos de historia, tiempo estimado y la historia de usuario
 ### Preparar la demostración
-Confirmación del equipo y puesta en marcha de las actividades pendientes del proyecto
+Confirmar la participación del equipo de desarrollo
 ### Determinar quien hace cada cosa
-Organizar la tabla de gestión para organizar la labor por cada integrante
+Organizar la tabla de gestión para organizar la labor por cada integrante, documentar en el repositorio de GitHub
+
+---
+# Sprint review 2
+## Actividades previas al sprint review
+### Agendar la actividad
+En esta sprint se realizará la review el día lunes a las 8:00 p.m. para que todos los miembros del proyecto puedan conectarse al teams.
+### Confirmación de que se terminó el sprint
+Revisión de las actividades y resolución de dudas con la maestra de la asignatura fundamentos de ingeniería de software
+### Preparar la demostración
+Confirmación por medio de la aplicación whatsapp sobre lo repartido de las actividades de cada integrante del equipo 
+### Determinar quien hace cada cosa
+Organizar una reunión para revisar lo que se avanzó en la tabla de gestión
+
+---
