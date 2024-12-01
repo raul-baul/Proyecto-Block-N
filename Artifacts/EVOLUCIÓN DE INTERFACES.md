@@ -7,5 +7,5 @@ Para el diseño de interfaces del prototipo de bajo nivel, utilizamos la herrami
 ---
 ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera-Entrega/Assets/Configuraci%C3%B3n.PNG)
 ---
-![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera--Entrega/Assets/Lista%20de%20tareas.PNG)
+![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera-Entrega/Assets/Lista%20de%20tareas.PNG)
 ---
