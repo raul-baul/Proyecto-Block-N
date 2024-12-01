@@ -1,5 +1,5 @@
 ﻿# BLOCK-N⏰
-![](https://github.com/raul-baul/Proyecto-Block-N/blob/Segunda-Entrega/Assets/Logo%20Block-N.png)
+![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera--Entrega/Assets/Animated%20Logo%20500x500%20px%20(4).png)
 
 ### Prototipo: https://www.figma.com/design/zazNZ62kHCo8MwXXFkVwRE/Figma-real?t=omtR1FfPvDotJC7Q-0
 > ---
