@@ -54,6 +54,19 @@ Entre los usuarios menos probables o negativos se encuentran aquellas personas q
 
 El avance constante de la tecnología ha impulsado la creación de aplicaciones diseñadas para satisfacer una amplia gama de necesidades, con muchas de ellas dirigidas a públicos específicos y ofreciendo soluciones similares. Sin embargo, siempre hay una que destaca como favorita dentro de su categoría. Nuestra aplicación, Block-N, reúne las mejores funciones de las aplicaciones populares de gestión del tiempo para brindar una solución general. Entre sus principales características se encuentran un diseño interactivo, listas de tareas, bloqueo de aplicaciones, recordatorios, notificaciones, y uso del calendario. A diferencia de otras apps, Block-N ofrece todas estas funcionalidades sin costo adicional, destacando por su diseño intuitivo y facilidad de uso. Nuestro compromiso con el proyecto permite a los usuarios mejorar su organización y aprovechar su tiempo de manera más eficiente, haciendo de Block-N una opción atractiva, accesible y la mejor para la gestión diaria de hábitos.
 
+>### Usuarios
+
+Nuestro proyecto "Block-N", se conforma principalmente tres tipos de usuarios: primarios, secundarios y potenciales.
+
+Usuarios primarios:
+Nuestros usuarios primarios son principalmente estudiantes y trabajadores. Los estudiantes utilizan la aplicación para gestionar su tiempo, mejorar la productividad y llevar un control de sus tareas en la escuela y sus hábitos, mientras que los trabajadores también buscan optimizar su tiempo, organizar sus pendientes y mejorar la eficiencia en sus actividades diarias o en su horario laboral. Estos usuarios valoran funcionalidades como la lista de tareas, el bloqueo de aplicaciones para evitar distracciones y la programación de eventos en el calendario.
+
+Usuarios secundarios:
+Los usuarios secundarios son aquellos que tienen una relación indirecta con la aplicación pero que también se benefician de ella. Entre estos se encuentran los padres de familia, quienes podrían utilizar la aplicación para gestionar el tiempo de sus hijos y fomentar hábitos productivos, así como cualquier persona que necesite mejorar la organización de su tiempo.
+
+Usuarios potenciales:
+Los usuarios potenciales son aquellos individuos que aún no son el público objetivo directo, pero podrían beneficiarse del uso de la aplicación en el futuro. Estos incluyen personas que buscan mejorar su bienestar general, como quienes desean tener un estilo de vida más organizado o personas con metas específicas como emprendedores que necesitan gestionar su tiempo eficazmente. 
+
 >### Innovación
 
 Block-N representa una propuesta innovadora en el campo de las aplicaciones móviles en gestión de tiempo y productividad. A diferencia de otras aplicaciones que ofrecen funcionalidades variadas, Block-N recopila de manera precisa herramientas esenciales como listas de tareas, un calendario, bloqueo de aplicaciones y recordatorios, todo en una sola plataforma. Esta integración permite a los usuarios organizar su tiempo y hábitos de forma más eficiente.
