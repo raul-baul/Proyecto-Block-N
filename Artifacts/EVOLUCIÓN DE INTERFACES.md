@@ -15,7 +15,7 @@ Posteriormente, se decidió utilizar una combinación de tonalidades moradas con
 ## Tercer diseño
 Finalmente, el diseño tomó un enfoque más minimalista, predominando el color blanco con acentos en tonalidades moradas. Esta decisión permitió crear una interfaz más limpia, organizada y visualmente atractiva. Además, se integraron más funcionalidades al proyecto, logrando una mayor cohesión entre el diseño y las características implementadas. Este esquema final se convirtió en la base para desarrollar y mantener la consistencia en las demás secciones de la aplicación.
 ---
-![]
+![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera-Entrega/Assets/tercer%20dise%C3%B1o.PNG)
 ---
 # Diseño final
 ![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera-Entrega/Assets/INICIO.PNG)
