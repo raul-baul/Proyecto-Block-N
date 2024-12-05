@@ -5,7 +5,7 @@ Para el diseño de interfaces del prototipo de bajo nivel, utilizamos la herrami
 ## Primer diseño
 Durante la fase inicial del desarrollo del prototipo, se optó por un esquema de colores oscuros, combinando el verde con el negro. En este punto, el proyecto se encontraba en una etapa temprana, limitada a un diseño básico, sin contar con el prototipado funcional ni con ciertos apartados clave. Sin embargo, tras una revisión, se tomó la decisión de modificar la paleta de colores para hacerla más intuitiva y amigable para el usuario.
 ---
-![]
+![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera-Entrega/Assets/primer%20dise%C3%B1o.PNG)
 ---
 ## Segundo diseño
 Posteriormente, se decidió utilizar una combinación de tonalidades moradas con blanco. Sin embargo, al ir agregando más interfaces y funcionalidades, el uso predominante del color morado generaba una sensación de saturación visual. Además, al combinarlo con otros colores como negro, naranja o rojo en diferentes secciones, la interfaz proyectaba una apariencia poco consistente y descuidada. Por este motivo, se optó por realizar un nuevo cambio en la paleta de colores, buscando un diseño más equilibrado, armónico y profesional.
