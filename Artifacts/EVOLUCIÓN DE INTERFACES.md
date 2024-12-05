@@ -10,7 +10,7 @@ Durante la fase inicial del desarrollo del prototipo, se optó por un esquema de
 ## Segundo diseño
 Posteriormente, se decidió utilizar una combinación de tonalidades moradas con blanco. Sin embargo, al ir agregando más interfaces y funcionalidades, el uso predominante del color morado generaba una sensación de saturación visual. Además, al combinarlo con otros colores como negro, naranja o rojo en diferentes secciones, la interfaz proyectaba una apariencia poco consistente y descuidada. Por este motivo, se optó por realizar un nuevo cambio en la paleta de colores, buscando un diseño más equilibrado, armónico y profesional.
 ---
-![]
+![](https://github.com/raul-baul/Proyecto-Block-N/blob/Tercera-Entrega/Assets/segundo%20dise%C3%B1o.PNG)
 ---
 ## Tercer diseño
 Finalmente, el diseño tomó un enfoque más minimalista, predominando el color blanco con acentos en tonalidades moradas. Esta decisión permitió crear una interfaz más limpia, organizada y visualmente atractiva. Además, se integraron más funcionalidades al proyecto, logrando una mayor cohesión entre el diseño y las características implementadas. Este esquema final se convirtió en la base para desarrollar y mantener la consistencia en las demás secciones de la aplicación.
